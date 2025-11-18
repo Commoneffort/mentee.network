@@ -63,7 +63,7 @@ Mentees and mentors represent the main platform object. A mentee may have a ment
 
 Mentee and mentor fill his profile with the following information:
 
-- MNT stake, total MNT, available MNT, Mneteepower, Mentorpower
+- MNT stake, total MNT, available MNT, Menteepower, Mentorpower
 - location
 - eos account
 - name
